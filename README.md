@@ -54,8 +54,8 @@
 
 
 
-### Name:
-### Register Number:
+### Name:Tharun.A
+### Register Number:212224100060
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
